@@ -17,7 +17,7 @@ function Home() {
     <div>
       <h1 className='h1'>
       <h1>Explore With Us</h1> </h1>
-      <h2>Sign up and Lets plan your dream vacation with you.</h2>
+      <h2>Sign up and Lets plan your dream vacation with you, not leaving out the Weather condition of the place you are going.</h2>
      
 
   <div class="polaroid">
@@ -53,7 +53,7 @@ function Home() {
     </div>
 
     <div class="polaroid">
-    <a target="_blank" href={pic}>
+    <a target="_blank" href={pics}>
     <img src={pics} alt="Singa" style={{width:"100%",float:"right"}} />
     <div class="container">
     <p>Singapore</p>

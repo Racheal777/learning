@@ -30,15 +30,15 @@ function SignUp (){
              <option value = 'usa'>USA</option>
          </select> <br/>
 
-         
+         <input type ='text' Placeholder = 'Phone'/><br/>
          <input type ='text' Placeholder = 'Email'/><br/>
 
          
          
-         <input type ='text' Placeholder = 'Password'/><br/>
+         <input type ='password' Placeholder = 'Password'/><br/>
 
          
-         <input type ='text' Placeholder = 'Confirm Password'/><br/>
+         <input type ='password' Placeholder = 'Confirm Password'/><br/>
 
 
 
